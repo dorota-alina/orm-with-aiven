@@ -6,8 +6,6 @@ author: Dorota Wójcik
 date: 2022-06-20
 ---
 
-# Using Ebean ORM with Aiven for MySQL
-
 ![article banner](hero-image.png)
 
 ## Which ORM tool to choose and why Ebean
